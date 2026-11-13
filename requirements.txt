@@ -1,0 +1,6 @@
+pandas>=2.0
+numpy
+statsmodels>=0.14
+matplotlib
+openpyxl
+jupyter
